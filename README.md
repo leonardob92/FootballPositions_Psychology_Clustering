@@ -2,7 +2,7 @@ This code relates to the following paper:
 
 Psychological fingerprints of tactical roles in elite football
 Bonetti, Leonardo *, Balter, Leonie *, Kringelbach, Morten L., Vestberg, Torbjōrn, Ingvar, Martin, Axelsson, John, Peter, Vuust, Goncalves, Alberto *, Petrovic, Predrag *
-* = equally contributing authors
+ * = equally contributing authors
 
 
 Abstract
