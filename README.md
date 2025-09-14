@@ -1,6 +1,6 @@
 This code relates to the following paper:
 
-Psychological fingerprints of tactical roles in elite football
+"Psychological fingerprints of tactical roles in elite football" (2025), BioRxiv.
 Bonetti, Leonardo *, Balter, Leonie *, Kringelbach, Morten L., Vestberg, Torbjōrn, Ingvar, Martin, Axelsson, John, Peter, Vuust, Goncalves, Alberto *, Petrovic, Predrag *
  * = equally contributing authors
 
